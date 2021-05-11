@@ -65,7 +65,7 @@ A partir deste ponto utilizar o `localStorage/IndexedDB` para persistir localmen
   - Criar um passo a passo de como rodar sua aplicação [(Sugestão)](https://github.com/wearehive/project-guidelines/blob/master/README.sample.md);
  - Criar uma breve descrição da solução utilizada.
  
- #### Forma de Entrega
+ ### Forma de Entrega
  Pode utilizar alguma das formas abaixo:
   - Subir o código no seu github pessoal ou similar e nos enviar o link
   - Subir o zip do código no seu drive e compartilhar conosco (dropbox, google drive, one drive, etc)

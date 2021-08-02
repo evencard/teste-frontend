@@ -71,4 +71,4 @@ A partir deste ponto utilizar o `localStorage/IndexedDB` para persistir localmen
   - Subir o zip do código no seu drive e compartilhar conosco (dropbox, google drive, one drive, etc)
   - Enviar o zip por email para provas@evencard.com.br
 
-** Use sua criatividade  **
+*** Use sua criatividade  ***

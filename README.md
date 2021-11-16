@@ -1,5 +1,5 @@
  ![Evencard](https://avatars.githubusercontent.com/u/84023071?s=100&v=4)
- # Teste de dev frontend da Evencard
+ # Teste de dev frontend da Even
 Este teste é aplicado aos candidatos as vagas de desenvolvimento frontend.
 
 ### O Desafio
